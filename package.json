@@ -1,0 +1,9 @@
+{
+  "name": "BitcoinRedesignPortfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.25.0"
+  }
+}

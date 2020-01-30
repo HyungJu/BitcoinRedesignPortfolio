@@ -1,0 +1,26 @@
+@import "color";
+
+#section1{
+
+  color: #fff;
+
+  background-color: #242424;
+
+
+
+  padding: 80px 80px 80px 80px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  span{
+    width: 40%;
+    font-size: 20px;
+
+  }
+  img{
+    width: 200px;
+
+  }
+}

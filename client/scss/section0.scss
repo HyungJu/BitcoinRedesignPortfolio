@@ -1,0 +1,48 @@
+@import "color";
+
+#section0{
+  color: #000;
+
+  #card-container{
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-between;
+  }
+
+  h1{
+
+    padding: 0 0 50px 0;
+  }
+  .card{
+
+
+    background: #FFFFFF;
+    box-shadow: 0px 16px 33px rgba(0, 0, 0, 0.14);
+    border-radius: 19px;
+
+    width: 300px;
+    height: 150px;
+
+    margin: 30px;
+    padding: 30px;
+
+
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    img{
+      width: 80px;
+      padding-bottom: 20px;
+      right: 0;
+    }
+    a{
+      font-size: 20px;
+
+    }
+  }
+}

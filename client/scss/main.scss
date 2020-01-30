@@ -1,0 +1,22 @@
+html, body{
+
+  padding: 0;
+  margin: 0;
+
+  color: #fff;
+
+  font-family: Montserrat;
+}
+
+
+#section0{
+  padding: 80px 300px;
+  margin: 0 auto;
+}
+
+@import "header";
+@import "video";
+@import "typography";
+@import "section0";
+@import "section1";
+@import "section2";
